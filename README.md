@@ -1,3 +1,7 @@
+```
+NAME : THIYAGARAJAN A
+REG NO : 212222240110
+```
 # EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD
 ## Aim: 
 To Interface a Digital Input  (userpush button  ) to ARM   development board and write a  program to obtain  the data and flash the led  
